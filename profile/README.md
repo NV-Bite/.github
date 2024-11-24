@@ -8,9 +8,7 @@ Every meal we eat has a hidden story of carbon emissions. From farms to our plat
 
 We aim to:  
 - Show you how your food choices impact the environment.  
-- Give easy-to-understand carbon footprint data for different foods.  
-- Help you share leftover food with others, reducing waste and spreading kindness.   
-By learning more about the food you eat, you can:  
+- Give easy-to-understand carbon footprint data for different foods.   
 - Make small changes that protect the planet.  
 - Join a community of people who care about a greener future.  
 
