@@ -12,8 +12,6 @@ We aim to:
 - Make small changes that protect the planet.  
 - Join a community of people who care about a greener future.  
 
----
-
 > 🍃 *"Every meal is a chance to create a better world."*  
 Let's take that step together! 🌟
 
