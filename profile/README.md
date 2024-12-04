@@ -93,7 +93,7 @@ Let's take that step together! 🌟
 </div>
 
 ### App Preview :
-<img src="https://github.com/NV-Bite/.github/blob/main/assets/mockup.png">
+<img src="https://github.com/NV-Bite/.github/blob/main/assets/mockups.png">
 
 ### Presentation Video : 
 ![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
