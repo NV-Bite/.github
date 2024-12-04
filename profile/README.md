@@ -91,3 +91,6 @@ Let's take that step together! 🌟
     </tr>
   </table>
 </div>
+
+### App Preview :
+<img src="https://github.com/NV-Bite/.github/blob/main/assets/mockup.png">
