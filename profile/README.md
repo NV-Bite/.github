@@ -96,7 +96,7 @@ Let's take that step together! 🌟
 <img src="https://github.com/NV-Bite/.github/blob/main/assets/mockup.png">
 
 ### Presentation Video : 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]
+![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
 ### Repository
