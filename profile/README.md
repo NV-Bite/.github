@@ -102,6 +102,9 @@ Let's take that step together! 🌟
 ![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 
+### Demo APP :
+[![Play Demo](https://img.shields.io/badge/%20Play%20Demo-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](LINK_VIDEO_DEMO)
+
 ### Repository
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/Model-ReCratify)
