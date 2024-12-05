@@ -116,4 +116,4 @@ Let's take that step together! 🌟
 
 [![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20Model%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/ml-api)
 
-[![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)]('https://github.com/NV-Bite/NvBite-APPs')
+[![Mobile Development](https://img.shields.io/badge/Mobile%20Development-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/NvBite-APPs)
