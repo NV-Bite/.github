@@ -94,6 +94,7 @@ Let's take that step together! 🌟
 
 ### App Preview :
 <a href="https://www.figma.com/proto/fZioLe7cr7ANnt96ztDckB/envBite?node-id=0-1&t=KUl5I24IDLzLRiQF-1" target="_blank">
+  <img src="https://github.com/NV-Bite/.github/blob/main/assets/frame%20mockups.png" alt="App Preview">
   <img src="https://github.com/NV-Bite/.github/blob/main/assets/mockups.png" alt="App Preview">
 </a>
 
