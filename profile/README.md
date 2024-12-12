@@ -111,7 +111,7 @@ Let's take that step together! 🌟
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/Develop-ML)
 
-[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReCratify/Backend-ReCratify)
+[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/CC-API)
 
 [![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20Model%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/ml-api)
 
