@@ -100,10 +100,10 @@ Let's take that step together! 🌟
 
 
 ### Presentation Video : 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fdwMxzZ0uAc?si=Dpi5R3NXb5pYJk30)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZASyOKyhOio?si=1kQCXAdOZmtDIj8J)
 
 ### Demo APP :
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/ZASyOKyhOio?si=1kQCXAdOZmtDIj8J)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/fdwMxzZ0uAc?si=Dpi5R3NXb5pYJk30)
 
 ### Repository
 
@@ -111,7 +111,7 @@ Let's take that step together! 🌟
 
 [![Machine Learning](https://img.shields.io/badge/Machine%20learning-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/Develop-ML)
 
-[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/CC-API)
+[![Cloud Computing_API_Backend](https://img.shields.io/badge/Cloud%20Computing%20Backend%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/cc-api)
 
 [![Cloud Computing_API_Model](https://img.shields.io/badge/Cloud%20Computing%20Model%20API-121013?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NV-Bite/ml-api)
 
